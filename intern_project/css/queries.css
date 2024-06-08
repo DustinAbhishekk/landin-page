@@ -1,0 +1,185 @@
+/**************************/
+/* BELOW 544px (Phones) */
+/**************************/
+@media (max-width: 34em) {
+  .header {
+    height: 46px;
+    padding: 12px;
+  }
+
+  .logo img {
+    height: 18px;
+  }
+  .list_icons {
+    gap: 0.8px;
+  }
+  .link_mobile {
+    font-size: 12px !important;
+    margin-left: 28px;
+  }
+  .right_nav {
+    display: none;
+  }
+  .vnag_strap {
+    display: none;
+  }
+  .hero {
+    display: block;
+    padding: 0 2.2rem;
+  }
+  .hero_section {
+    padding: 4.8rem 0 2.6rem 0;
+  }
+  .heading_primary {
+    font-size: 40px;
+    margin-bottom: 12px;
+  }
+  .left_hero_section {
+    padding-top: 20px;
+  }
+  .hero_para {
+    font-size: 12px;
+    margin-bottom: 18px;
+  }
+  .btn_group a {
+    padding: 10px 18px;
+    font-size: 10px;
+    border-radius: 5px;
+  }
+  .right_hero_section {
+    margin-top: 42px;
+  }
+  .container {
+    display: block;
+  }
+  .features {
+    padding: 0;
+  }
+  .features_img {
+    margin: 0 auto;
+  }
+  .features_details {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .img_aside {
+    display: none;
+  }
+  .heading_secondary {
+    font-size: 24px;
+    align-items: center;
+  }
+  .feature_para {
+    font-size: 1.2rem;
+  }
+  .features_name {
+    margin-left: 28px;
+  }
+  .advantage_heading {
+    font-size: 14px;
+  }
+  .advantage_container {
+    display: block;
+  }
+  .subheading {
+    font-size: 12px;
+  }
+  .advantage_para {
+    font-size: 8px;
+  }
+  .c_container {
+    display: block;
+  }
+  .features_details {
+    padding-top: 0;
+  }
+  .tp {
+    padding-top: 24px;
+  }
+  .testimonial .heading_secondary {
+    font-size: 28px;
+  }
+  .avatar {
+    margin-top: 6px;
+    width: 24px;
+    height: 24px;
+    margin-left: 25px;
+  }
+  .subheading {
+    font-size: 8px;
+  }
+  .avatar_name {
+    margin-left: 24px;
+    margin-top: 8px;
+  }
+  .faq_group {
+    display: block;
+  }
+  .faq_header {
+    font-size: 18px;
+  }
+  .faq_para {
+    font-size: 8px;
+  }
+  .faq_box {
+    padding: 20px;
+    border-radius: 5px;
+    margin: 14px;
+  }
+  .download_header {
+    font-size: 12px;
+  }
+  .download-para {
+    font-size: 6px;
+  }
+  .download-button {
+    padding: 8px 16px;
+    margin-top: 8px;
+
+    border-radius: 5px;
+  }
+  .download-button span {
+    font-size: 6px;
+  }
+  .apple_icon {
+    width: 8px;
+    height: 8px;
+  }
+  .Links-footer-sec h3,
+  .legal-footer-sec h3,
+  .product-footer-sec h3 {
+    font-size: 16px;
+    margin-bottom: 0px;
+  }
+  .Links-footer-sec ul li a,
+  .legal-footer-sec ul li a,
+  .product-footer-sec ul li a {
+    font-size: 8px;
+    margin-bottom: 8px;
+    line-height: 1.7;
+  }
+  .news-right-footer h2 {
+    font-size: 24px;
+    text-align: center;
+  }
+  .news-right-footer h3 {
+    text-align: center;
+    font-size: 8px;
+    margin-top: 0px;
+  }
+  .email-input-form {
+    font-size: 8px;
+
+    line-height: 12px;
+    margin-top: 12px;
+  }
+  .submit-btn-form {
+    font-size: 16px;
+    line-height: 18px;
+  }
+  .bottom-footer-section p {
+    font-size: 8px;
+  }
+}
